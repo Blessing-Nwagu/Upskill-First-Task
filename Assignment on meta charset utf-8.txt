@@ -1,0 +1,13 @@
+QUESTION: Explain the Significance or Important of the Meta Charset="UTF-8"
+
+
+ANSWERS:
+The Significance or Importance of meta charset="utf-8" is that it helps the web page to show text in different Languages and unique characters correctly.
+without meta charset="utf-8", the Text would not be properly Encode (Converting to code) which will result to RENDERING ISSUES
+
+UTF-8 is simply Encoding (converting to code)
+The full meaning of UTF is Unicode Transformation Format
+
+UNICODE: It allows writing a single application for various platforms in different languages
+
+ASCII: On the other hand is used to represent characters in a particular language WHILE Unicode represents character in a wide range in other languages.
